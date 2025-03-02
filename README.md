@@ -16,7 +16,7 @@ Simple react project for testing components and deployment
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (v16 or later)
+- [Node.js](https://nodejs.org/)
 - [Yarn](https://yarnpkg.com/) (or npm)
 
 ### Installation
