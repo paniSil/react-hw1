@@ -23,16 +23,23 @@ Simple react project for testing components and deployment
 
 1. Clone this repository:
    ```
-   git clone https://github.com/paniSil/react-hw1.git```
+   git clone https://github.com/paniSil/react-hw1.git
+   ```
    
 2. Navigate to the project directory:
-```cd react-hw1```
+```
+cd react-hw1
+```
 
-3. Install dependencies:
-```yarn install```
+4. Install dependencies:
+```
+yarn install
+```
 
-4. Run the development server:
-```yarn dev```
+6. Run the development server:
+```
+yarn dev
+```
 
-5. Open your browser and go to http://localhost:3000 to see the app in action.
+8. Open your browser and go to http://localhost:3000 to see the app in action.
 
