@@ -1,12 +1,29 @@
-# React + Vite
+# React homework project 1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simple react project for testing components and deployment
 
-Currently, two official plugins are available:
+## Components:
+- buttons with varios states
+- input fields and checkboxes
+- css based on Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Used technologies:
+- React
+- CSS + HTML
+- Vite
 
-## Expanding the ESLint configuration
+## Setup
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v16 or later)
+- [Yarn](https://yarnpkg.com/) (or npm)
+
+### Installation
+
+1. Clone this repository:
+   ```
+   git clone https://github.com/paniSil/react-hw1.git```
+   
+2. Navigate to the project directory:
+
