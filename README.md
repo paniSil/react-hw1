@@ -27,19 +27,19 @@ Simple react project for testing components and deployment
    ```
    
 2. Navigate to the project directory:
-```
-cd react-hw1
-```
+   ```
+   cd react-hw1
+   ```
 
 4. Install dependencies:
-```
-yarn install
-```
+   ```
+   yarn install
+   ```
 
-6. Run the development server:
-```
-yarn dev
-```
+5. Run the development server:
+   ```
+   yarn dev
+   ```
 
-8. Open your browser and go to http://localhost:3000 to see the app in action.
+6. Open your browser and go to http://localhost:3000 to see the app in action.
 
